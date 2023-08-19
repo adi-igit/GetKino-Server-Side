@@ -6,7 +6,7 @@ Welcome to GetKino's Server Side, the backend component of a captivating project
 
 This is the server-side part of a web application.
 
-## 🍿 Features
+## Features
 
 - **RESTful API**: Enjoy a comprehensive set of endpoints to fetch movie data, user information, and more.
 
@@ -18,7 +18,7 @@ This is the server-side part of a web application.
 
 - **Data Integrity**: Ensure data integrity with efficient database operations and robust error handling.
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone this repository to your local machine:
 
@@ -48,23 +48,23 @@ This is the server-side part of a web application.
 
 6. Open your browser and visit [**http://localhost:3000**](http://localhost:3000) to experience the power of GetKino's Server Side!
 
-## 🌐 Technologies Used
+## Technologies Used
 
 * **Node.js**: A versatile JavaScript runtime for building scalable and efficient server-side applications.
 * **Express**: A robust and flexible web framework for building RESTful APIs and handling HTTP requests.
 * **MongoDB**: A NoSQL database for efficient storage and retrieval of movie and user data.
 
-## 👥 Contributing
+## Feedback and Contributions
 
 Join the GetKino experience and make it even more captivating! Here's how you can contribute:
 
 * [**Open an issue**](https://github.com/adi-igit/GetKino-Server-Side/issues) for suggestions, bug reports, or feature requests.
 * Fork the repository and submit a pull request to contribute your enhancements to the GetKino ecosystem.
 
-## 📜 License
+## License
 
 Riseup is released under the [**MIT License**](https://github.com/adi-igit/GetKino-Server-Side/blob/main/LICENSE). Get ready to rise above challenges and shape your path to success!
 
 Power up GetKino with the Server Side, a dynamic Node.js application. Bring movies to life, enhance user interactions, and provide real-time data to movie enthusiasts.
 
-Enjoy the show! 🎥🍿
+Enjoy the show!
